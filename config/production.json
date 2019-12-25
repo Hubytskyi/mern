@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "MERN",
+  "mongoUri": "mongodb+srv://Hubytskyi:mynewPASS42@cluster0-r7wvr.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
